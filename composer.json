@@ -1,0 +1,6 @@
+{
+    "require": {
+        "telegram-bot/api": "^2.3",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
